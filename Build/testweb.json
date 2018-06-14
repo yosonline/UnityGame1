@@ -1,0 +1,13 @@
+{
+"companyName": "YOS ONLINE",
+"productName": "英雄になりたい！",
+"dataUrl": "testweb.data.unityweb",
+"asmCodeUrl": "testweb.asm.code.unityweb",
+"asmMemoryUrl": "testweb.asm.memory.unityweb",
+"asmFrameworkUrl": "testweb.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
